@@ -25,3 +25,20 @@
 //       console.log("Тохиргоо олдсонгүй");
 // }
 // console.log(settings);
+
+// const profile = {username : "nomi"}
+// const takenNames = ["admin", "guest", "bat"]
+// const newUsername = "saraa"
+// if (newUsername.length < 4) {
+//     console.log("Нэр хэт богино");
+// }
+// else if (newUsername === profile.username) {
+//     console.log("Нэр өөрчлөгдөөгүй");
+// }
+// else if (takenNames.includes(newUsername)) {
+//     console.log("Энэ нэр ашиглагдаж байна");
+// }
+// else {
+//     profile.username = newUsername;
+// }
+// console.log(profile);
